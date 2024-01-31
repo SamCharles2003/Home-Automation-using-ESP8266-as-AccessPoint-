@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 /* Put your SSID & Password */
-const char* ssid = "Embedded And IoT Lab AP";  // Enter SSID here
-const char* password = "tomatoketchup";  //Enter Password here
+const char* ssid = "ssid";  // Enter SSID here
+const char* password = "password";  //Enter Password here
 
 /* Put IP Address details */
 IPAddress local_ip(192,168,1,1);
